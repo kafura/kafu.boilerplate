@@ -10,7 +10,7 @@ JS bundling and minification
 
 
 ## TODO
-Make use of Bower to install web dependencies like jQuery and ReactJs
+Nothing right now
 
 ## Usage
 
@@ -25,4 +25,8 @@ Go to the directory of this boilerplate and run
 
 `npm install` to install everything from package.json
 
+If you would like to install jQuery and ReactJs, than run
+`bower install`
+
+Change bower.json for your needs.
 ### 
