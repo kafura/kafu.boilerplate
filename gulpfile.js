@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-//var requireDir = require('require-dir');
+var requireDir = require('require-dir');
 var dir = requireDir('./gulp/tasks');
 var config = require('./gulp/config');
 
@@ -16,10 +16,6 @@ var config = require('./gulp/config');
 //gulp.task('build', ['clean'], function() {
 //    gulp.start('default');
 //});
-
-
-// Include gulp
-var gulp = require("gulp");
 
 //// Install tools and plugins.
 //var es = require("event-stream"),

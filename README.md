@@ -19,6 +19,8 @@ Make sure that the following is installed:
 * [Gulp](http://gulpjs.com) `sudo npm install -g gulp`
 * [Bower](http://bower.io/) `npm install -g bower`
 
+Download zip from [github](https://github.com/kafura/kafu.boilerplate/archive/master.zip)
+
 Go to the directory of this boilerplate and run
 
 `npm install` to install everything from package.json
