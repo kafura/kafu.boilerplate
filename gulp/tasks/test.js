@@ -6,8 +6,8 @@ var karma = require('gulp-karma');
 
 gulp.task('test', function() {
     return gulp.src([
-            global.config.src  + '/scripts/app.js',
-            global.config.src  + '/scripts/util/**/*.js',
+            global.config.js.src  + '/app.js',
+            global.config.js.src  + '/util/**/*.js',
             //global.config.src  + '/scripts/module/**/*.js',
             global.config.test + '/spec/**/*.js'
         ])
