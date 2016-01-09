@@ -10,7 +10,10 @@ JS bundling and minification
 
 
 ## TODO
-Nothing right now
+Svg support
+Image support
+Clean task
+Test (Karma, Jasmine, PhantomJs)
 
 ## Usage
 
