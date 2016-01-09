@@ -1,0 +1,7 @@
+{
+  "name": "kafu.boilerplate",
+  "dependencies": {
+    "jquery": "2.2.0",
+    "react": "0.14.6"
+  }
+}
