@@ -222,3 +222,6 @@ dist/vendor/
 _site/
 bower_components/
 .idea/
+
+test/coverage/
+test/results/
