@@ -28,7 +28,7 @@ Go to the directory of this boilerplate and run
 
 `npm install` to install everything from package.json
 
-If you would like to install jQuery and ReactJs, than run
+If you would like to install jQuery and ReactJs, then run
 `bower install`
 
 Change bower.json for your needs.
